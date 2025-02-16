@@ -18,7 +18,6 @@
  * @author Shimon Esterkin (@SemionVlad)
  * @version 2023B
  */
-
 public class Date {
     // Month Constants
     private static final int JANUARY = 1;
