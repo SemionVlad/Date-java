@@ -1,12 +1,9 @@
 # Date Class (Gregorian Calendar Date Implementation)
 
 ## Author
-- **Name**: Shimon Esterkin  
+- **Name**: Shimon Esterkin (SemionVlad)
 - **ID**: *****2258   
-- **Semester**: 2023A
-
-**Author:** Shimon Esterkin (SemionVlad)  
-**Version:** 2023B
+- **Semester**: 2023B
 
 ## Overview
 The Date class provides a robust implementation of date handling based on the Gregorian calendar system. It supports date validation, comparison, and calculations while handling special cases like leap years and month-specific day limits.
@@ -173,5 +170,4 @@ date1.setYear(2024);
 ## 🔒 License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
 Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
