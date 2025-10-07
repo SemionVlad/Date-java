@@ -1,5 +1,9 @@
-# Date Class
-## Gregorian Calendar Date Implementation
+# Date Class (Gregorian Calendar Date Implementation)
+
+## Author
+- **Name**: Shimon Esterkin  
+- **ID**: *****2258   
+- **Semester**: 2023A
 
 **Author:** Shimon Esterkin (SemionVlad)  
 **Version:** 2023B
