@@ -1,4 +1,13 @@
 # Date Class (Gregorian Calendar Date Implementation)
+<!-- Tech & meta badges (static; no CI required) -->
+![Language: Java](https://img.shields.io/badge/Language-Java-red?logo=java)
+![Domain: Dates](https://img.shields.io/badge/Domain-Dates-0aa)
+![Calendar: Gregorian](https://img.shields.io/badge/Calendar-Gregorian-4c1)
+![Feature: Leap Years](https://img.shields.io/badge/Feature-Leap%20Years-795548)
+![Format: DD/MM/YYYY](https://img.shields.io/badge/Format-DD%2FMM%2FYYYY-999)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+> Java implementation of a Gregorian Date: validation (month lengths, leap years), comparison (before/after/equal), day difference, and next-day calculation; clean OOP API.
+
 
 ## Author
 - **Name**: Shimon Esterkin (SemionVlad)
